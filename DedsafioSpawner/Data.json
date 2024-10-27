@@ -1,0 +1,58 @@
+{
+	"TicketsData": {
+		"raid_entrance_1": {},
+		"raid_entrance_2": {
+			"Difficulty": "Easy",
+			"Dimension": "minecraft:overworld",
+			"Dungeon": "Castle",
+			"Spawners": [
+				{
+					"Type": "type1",
+					"Position": {
+						"x": 0,
+						"y": -60,
+						"z": 0
+					}
+				},
+				{
+					"Type": "type1",
+					"Position": {
+						"x": 0,
+						"y": -60,
+						"z": 10
+					}
+				},
+				{
+					"Type": "type1",
+					"Position": {
+						"x": 6.710203998450671,
+						"y": -60,
+						"z": -1.7982034374617957
+					}
+				},
+				{
+					"Type": "type1",
+					"Position": {
+						"x": 11.684599142573797,
+						"y": -60,
+						"z": -27.471856416295658
+					}
+				}
+			]
+		},
+		"raid_entrance_3": {},
+		"raid_entrance_4": {},
+		"raid_entrance_5": {},
+		"raid_entrance_6": {}
+	},
+	"Dungeons": {
+		"Castle": {
+			"x": 0,
+			"y": -60,
+			"z": 0
+		}
+	},
+	"InRaid" : {
+
+	}
+}
